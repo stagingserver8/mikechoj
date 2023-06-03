@@ -1,6 +1,6 @@
 ---
-title: Classification System for Web3
-description: MSCI's stab at categorising digital assets
+title: Ark Tech Themes
+description: Overview of 2023 paper
 date: 2023-02-28 17:51:42
 draft: false
 tags: ['tech investing']
@@ -31,7 +31,10 @@ The report also adds public blockchains, cryptocurrencies, and smart contracts t
 Other bits and pieces, some of which we will be reverting to later:
 
 Online Groceries
-Online today accounts for only 6% of grocery sales globally. ARK thinks that in 2030, e-commerce could capture 35% of the $11 trillion grocery market globally, with robots accounting for more than half of the deliveries. This will be supported by autonomous logistics, including trucks, drones, and robots, should lower delivery costs and increase convenience.” ARK estimates that autonomous logistics revenue could scale from nearly zero today to $1-2 trillion by 2030.
+
+Online today accounts for only 6% of grocery sales globally. ARK thinks that in 2030, e-commerce could capture 35% of the $11 trillion grocery market globally, with robots accounting for more than half of the deliveries. This will be supported by autonomous logistics, including trucks, drones, and robots, should lower delivery costs and increase convenience.” 
+
+ARK estimates that autonomous logistics revenue could scale from nearly zero today to $1-2 trillion by 2030.
 
 3D Printing
 3D printing is likely to enable new products and markets, and see the largest leaps in robotics. Boston Dynamics’ Atlas humanoid robot, for example, achieved a strength-to-weight ratio that enabled leaps and somersaults, thanks to 3D printing.

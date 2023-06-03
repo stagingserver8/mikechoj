@@ -1,4 +1,3 @@
-baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'mikechoj.com'
 theme = "archie"

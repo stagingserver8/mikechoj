@@ -6,7 +6,7 @@ draft: false
 tags: ['metaverse']
 ---
 
-Following a visit to [Erik](https://yourweekendreading.substack.com/p/ywr-the-woman-from-2040), the Woman from 2040 also paid me a visit. I am not sure this was the same person who visited him, but could well be. Anyway, I wanted to share what she told me.
+Following a visit to [Erik](https://yourweekendreading.substack.com/p/ywr-the-woman-from-2040), the 'Woman from 2040' also paid me a visit. I am not sure this was the same person who visited him, but could well be. Anyway, I wanted to share what she told me.
 
 She started off talking about the metaverse and explained that it is actually quite similar to what we are used to today when browsing the internet. One way to think about it, she said, is that we are currently navigating a 2D version of the metaverse, using our Chrome browser to hop from one website or app to another. The metaverse in 2040 will be a 3D version of the internet as we know it today and will allow us to do a lot more.
 

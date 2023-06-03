@@ -24,3 +24,7 @@ In a recent interview, Ludwig Sobolewski, one of the architects of modern Polish
 Ludwig's words capture the very essence of my own cognitive process. They suggest that it may be more feasible to construct an entirely novel approach rather than attempting to enhance and expand upon an outdated model.
 
 This blog is about this construction.
+
+--
+
+I do not currently have a subscribe option. You can contact me via [LinkedIn](https://www.linkedin.com/in/mikechoj/)
