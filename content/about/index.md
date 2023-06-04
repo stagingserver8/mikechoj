@@ -7,11 +7,13 @@ Over the years, I have experimented with various forms of writing, including blo
 
 I am writing to share my thoughts and thought processes, to keep a personal notebook of my thoughts, and to offer insights and questions that may benefit others in the future. Interestingly (and curiously!) enough, many of my ideas emerge or develop while I am engaged in the act of writing.
 
-What am I writing about? A wide range of topics, but primarily centered around investor relations, investing, fintech, capital markets or whatever I find interesting and fascinating at the time that I want to gain a deeper understanding of. Significantly, the crux of my inquiry in those areas lies in envisioning the future and examining what it may look like.
+What am I writing about? A wide range of topics, but primarily centered around investor relations, investing, fintech, capital markets or whatever I find interesting and fascinating at the time that I want to gain a deeper understanding of. 
+
+Significantly, the main line of my inquiry in those areas lies in envisioning the future and examining what it may look like.
 
 In the process, I explore various trends, emerging technologies, and regulatory changes that could potentially shape the landscape of capital markets. By analysing and discussing these factors, I provide insights and perspectives that can assist investors, companies, and financial professionals in navigating the evolving market conditions.
 
-Through this process of "figuring out loud," I strive to contribute to the ongoing dialogue surrounding the future of capital markets, fostering a deeper understanding and anticipation of the potential transformations that lie ahead.
+Through this process of "figuring out loud," I hope to, in some small way, contribute to the ongoing dialogue surrounding the future of capital markets, fostering a deeper understanding and anticipation of the potential transformations that lie ahead.
 
 Few articles on certain subjects are ‘ever-drafts’ and are designed to be always evolving. Few posts discuss the work of others and are tagged as ‘guests’. Every now and then, I pretend to be a podcast host, interview interesting people and share key insights here.
 
@@ -27,4 +29,4 @@ This blog is about this construction.
 
 --
 
-I do not currently have a subscribe option. You can contact me via [LinkedIn](https://www.linkedin.com/in/mikechoj/)
+You can contact me via [LinkedIn](https://www.linkedin.com/in/mikechoj/)

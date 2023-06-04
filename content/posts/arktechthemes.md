@@ -3,7 +3,7 @@ title: Ark Tech Themes
 description: Overview of 2023 paper
 date: 2023-02-28 17:51:42
 draft: false
-tags: ['tech investing']
+tags: ['tech_investing']
 ---
 
 Ark Invest recently published their annual Big Ideas report which you can read here. While, Kathy Wood (the fund’s CIO) is not everyone’s cup of tea, it’s worth noting that her fund ranks in the top five tech funds in terms of assets, with roughly $20 billion under management, much of it allocated to large-cap US stocks. As a result, her views are widely read, even if to check the pulse on market consensus, challenge the current investment narrative or find areas of disagreement. The annual report gives ARK’s version of some of the most promising and disruptive technological trends that are likely to “shape the future of our worlds.”

@@ -1,9 +1,9 @@
 ---
-title: Woman from 2040
-description: Musings on metaverse
+title: The Woman from 2040
+description: Open riff on the metaverse
 date: 2022-09-19 17:51:42
 draft: false
-tags: ['metaverse']
+tags: ['metaverse', 'tech_investing']
 ---
 
 Following a visit to [Erik](https://yourweekendreading.substack.com/p/ywr-the-woman-from-2040), the 'Woman from 2040' also paid me a visit. I am not sure this was the same person who visited him, but could well be. Anyway, I wanted to share what she told me.
