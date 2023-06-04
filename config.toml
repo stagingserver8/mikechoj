@@ -4,7 +4,7 @@ title = 'mikechoj.com'
 theme = "archie1"
 
 favicon = "favicon.ico"
-
+   
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
