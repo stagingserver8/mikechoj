@@ -8,10 +8,6 @@ tags: ['interviews', 'investor_relations']
 
 Mark Mobius agreed to give me some of his time to talk about investor relations in the current climate. Amongst others, we covered new methods of communication emerging today, his investment process, adapting to MiFID II, and what he would do if he was just appointed head of IR in a listed company.
 
-Thank you Mark for the useful insights for our industry!
-
-Please let me know if you would rather receive a text transcript of the call.
-
 [Listen to the interview](https://www.youtube.com/watch?v=a1lzjFBUssk)
 
 ## Transcript
