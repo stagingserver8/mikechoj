@@ -18,7 +18,8 @@ I wanted to spend some time unpacking this while also exploring what an on-chain
 
 A lot of my thoughts below were developed over a few cold ones with Erik Renander, who also publishes an excellent newsletter (YWR: Your Weekend Reading) during a lovely, warm late-summer evening in London.
 
-Setting the Scene
+# Setting the Scene
+
 Capital formation is, in essence, the process by which businesses—and governments—raise long-term funds. There are two aspects to it: first, the capital market helps companies raise this money from investors. Second, it allows existing owners to trade these securities, adding liquidity and helping to figure out what these assets are actually worth.
 
 In public markets, the primary function of raising capital is usually handled by brokers and investment banks. The secondary function, which involves trading, is overseen by exchanges and comes with a thick layer of intermediaries like registrars and custodians.
@@ -53,13 +54,13 @@ So, would a blockchain-enhanced capital market solve these problems for both inv
 
 Let's dive deeper.
 
-Pieces of the Capital Market Puzzle
+# Pieces of the Capital Market Puzzle
 
 There are five key areas that make up the capital formation picture:
 
 Let’s take a look at each of those in turn.
 
-Characteristics of the Company: This answers the question: What am I looking at? For startups, the characteristics (or attributes) might look something like "UK incorporated, first fundraising round, 3 people, MVP in the market, 3 clients, $5,000 MRR, Regtech, Raising $3m." For a listed equity, it might be "UK based, consumer discretionary, $30m market cap, $500k daily trading value, $1m EBITDA, trading on the LSE."
+Characteristics of the Company: This answers the question: What am I looking at? For startups, the characteristics (or attributes) might look something like : UK incorporated, first fundraising round, 3 people, MVP in the market, 3 clients, $5,000 MRR, Regtech, Raising $3m.For a listed equity, it might be "UK based, consumer discretionary, $30m market cap, $500k daily trading value, $1m EBITDA, trading on the LSE."
 
 These characteristics speak to the mandate of an institution or individual, i.e., the universe where it can invest. For instance, an emerging market fund might only be able to invest in companies that are liquid (e.g., trade over $1m) and are based in one of the defined 25 or so emerging countries. Similarly a ‘Latin American healthcare’ venture capital fund might be able to only look at one specific geography and industry. So, the characteristics define what the company is and what the addressable investment universe might look like.
 
@@ -104,7 +105,7 @@ A reliable reputation protocol could offer risk assessments by considering a mul
 
 And once you possess a token, like in DeFi, the doors open to a myriad of other transactions. Hold it, stake it to secure a network, lend it, or provide liquidity to a decentralised exchange. The beauty here is the absence of a traditional banking institution acting as an intermediary, thereby maximising your earning potential and minimising risk.
 
-Parting Thoughts
+# Parting Thoughts
 
 The limitations set by an outdated capital market—constrained by geographical boundaries, lacking in global supply/demand matching and trust protocols, and entangled with intermediaries—have kept the global capital market from being truly 'global' and 'open.'
 
