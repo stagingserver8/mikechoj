@@ -12,7 +12,8 @@ We will kick things off with a whirlwind tour of the history of the internet, ex
 
 A lot to cover, so let's get going!
 
-#1 Internet: A Digital Highway for Data
+# 1 Internet: A Digital Highway for Data
+
 Let’s take a trip down memory lane and start with the internet in the 1960s.
 
 The internet is like a colossal highway system for data, born from a project called ARPANET. It was an era where computers began to "talk" by sending data packets to each other. This was the dawn of a revolution, a few computers forming a web that would soon envelop the world.
@@ -31,14 +32,15 @@ However, there are cracks behind this ‘centralised’ model that are starting 
 
 The net seems still positive, but there's a shadow. Most people don't know about any alternatives, so the status quo becomes a heavy anchor.
 
-#2 Bitcoin: The Dawn of Online Money
+# 2 Bitcoin: The Dawn of Online Money
+
 While the internet allowed for moving data across the digital world, it did not permit money to truly exist or move online.
 
 Now, you might raise an eyebrow and ask: "I have an online bank account, and I can send money. Isn't that moving money on the internet?" Well, not exactly. What about paying for your Spotify subscription with a credit card? Again, not really. The internet moves messages, or instructions, about moving money, not the money itself. When you pay for something online, you're basically sending a request to your bank to transfer funds. It's like sending a letter with instructions rather than handing over cash.
 
 Enter Bitcoin, the first technology to offer a form of ‘money1’ that could be transacted directly between users on the internet, without the need for intermediaries like banks. When someone sends or receives bitcoins, the transaction is added to a ledger called blockchain. To prevent "double spending"—the same bitcoin being spent twice—a network of computers called miners verify, using cryptography, and confirm these transactions so that there is no fraud.
 
-#3 Blockchain: An Accounting System for Online Money
+# 3 Blockchain: An Accounting System for Online Money
 At the heart of Bitcoin lies the blockchain—a big word that simply means a decentralised (not owned by anyone) and transparent ledger.
 
 Instead of one big bank holding all the accounts, the blockchain stores this data in code. To give an example. Let’s say Tom wants to send $10 to Mary using the blockchain. Here is how it works in reality:
@@ -67,7 +69,7 @@ Unlike traditional finance, where a few key individuals can control, alter, or h
 
 And here's where it gets even more exciting: the blockchain has paved the way for something called smart contracts; rules written in code that govern how and when this value can be moved online.
 
-#4 Smart Contracts: Terms of Conditions for Online Transactions
+# 4 Smart Contracts: Terms of Conditions for Online Transactions
 Blockchain technology does two things very well: maintain the supply of an asset, and keep track of ownership. As we saw earlier, it does this by reaching a global consensus of status of the underlying ledger. But it is also the foundation for something called smart contracts.
 
 Think of smart contracts as the legal agreements but with a twist. They are self-executing contracts with the terms and conditions embedded directly into code and with the stamp of trust guaranteed by the blockchain. Unlike traditional contracts, there's no need for lawyers or notaries because smart contracts enforce themselves.
@@ -80,7 +82,7 @@ Sure, you might think to entrust this task to your bank manager, but consider th
 
 So to sum up: while blockchain is the trust mechanism, smart contracts are the legal architects, crafting and enforcing the rules that govern transactions within this trust framework without those potential failures.
 
-#5 Token and Standards: Enabling Multi-Asset Blockchains
+# 5 Token and Standards: Enabling Multi-Asset Blockchains
 With the blockchain ledger managing supply and ownership, the only asset that was allowed to benefit from the new rail stack was Bitcoin. Digital tokens and token standards have changed that.
 
 Tokens, serving as digital representations of a particular asset, expanded the capabilities of blockchains to host a wide variety of assets, each with their own rules and functionalities. This is crucial because not all assets are meant to behave the same way, and a one-size-fits-all model like Bitcoin simply won't suffice for all use cases.
@@ -97,7 +99,7 @@ Returning to our iPhone analogy, consider Ethereum as the App Store of the block
 
 The result was an explosion in the number of digital assets, from around 500 in 2015 to over half a million ERC-20 and 721 standards, representing over 95% of all digital assets in existence today.
 
-#6 Tokens + Token Standards + Smart Contacts = An Asset-Agnostic Financial System
+# 6 Tokens + Token Standards + Smart Contacts = An Asset-Agnostic Financial System
 Reflecting on the past decade, it's clear that all the tinkering, experimenting, and ups and downs have given birth to something entirely new—a financial infrastructure native to the internet. True, haven't been any killer applications yet, and the industry faces several headwinds, topics I'll explore in future posts.
 
 However, I think there is a gravitational pull towards blockchains and token standards. Why? Because they all operate in an era of 'asset-agnostic infrastructure.
@@ -136,66 +138,12 @@ While I plan to delve into these challenges and obstacles in future posts, one t
 
 Thanks for reading!
 
-Mike
+
 
 ---
 
 Footnotes
 
 
-Whether Bitcoin is considered money is a subject that has sparked a big debate, one that traverses the realms of economics, law, and philosophy. At its core, the argument revolves around how we define "money" and what it represents in today's rapidly evolving digital world.
+1. Whether Bitcoin is considered money is a subject that has sparked a big debate, one that traverses the realms of economics, law, and philosophy. At its core, the argument revolves around how we define "money" and what it represents in today's rapidly evolving digital world.
 
-2
-A smart contract for our Piggy Bank written in Solidity, looks something like this (with comments after //):
-
-contract PiggyBank {
-
-// Store the owner's address (the one who deploys the contract)
-    
-address public owner;
-
-// Store the unlock date for the piggy bank
-
-    uint256 public unlockDate;
-
-// Set the owner and unlock date at the time of contract deployment
-
-    constructor(uint256 _unlockDate) {
-        owner = msg.sender; // Set the owner as the sender of the transaction (deployer)
-        unlockDate = _unlockDate; // Set the unlock date (in UNIX timestamp format)
-    }
-
-// Deposit function to allow anyone to send funds to the contract
-    
-function deposit() public payable {
-
-// This function automatically accepts Ether sent to it and adds it to the contract's balance
-
-    }
-
-// Withdraw function to allow the owner to withdraw all funds after the unlock date
-
-
-    function withdraw() public {
-        
-// Ensure that only the owner can call the withdrawal
-
-        require(msg.sender == owner, "Only the owner can withdraw");
-
-// Ensure that the current time is greater than or equal to the unlock date
-
-        require(block.timestamp >= unlockDate, "PiggyBank is still locked");       
-3
-Each smart contact that adheres to the standard must contain those six attributes:
-
-TotalSupply: provides information about the total token supply
-
-BalanceOf: provides account balance of the owner's account
-
-Transfer: executes transfers of a specified number of tokens to a specified address
-
-TransferFrom: executes transfers of a specified number of tokens from a specified address
-
-Approve: allow a spender to withdraw a set number of tokens from a specified account
-
-Allowance: returns a set number of tokens from a spender to the owner
