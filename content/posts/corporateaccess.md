@@ -7,6 +7,7 @@ tags: ['corporate_access']
 ---
 
 A couple of weeks ago, I took part in a panel discussion about investor communications in a post-COVID-19 world. Discussions were broadly centred around how our industry is adapting to the new realities and what we can expect from the future.
+
 After the event, I spent a bit of time reflecting on what was discussed. I thought it might be useful to share some of the key points we covered together with some of my own perspectives on the topics, as well as share one or two interesting case studies which caught my eye during the last few months.
 
 ## Meeting formats and the meeting demand equation
