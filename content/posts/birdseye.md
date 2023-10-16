@@ -1,5 +1,5 @@
 ---
-title: Web3: The Bird's Eye View
+title: Web3 - The Bird's Eye View
 description: The Evolution of Asset-Agnostic Financial Infrastructure
 date: 2023-08-28 17:51:42
 draft: false
