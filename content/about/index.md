@@ -7,7 +7,7 @@ Over the years, I have experimented with various forms of writing, including blo
 
 I am writing to share my thoughts and thought processes, to keep a personal notebook of my thoughts, and to offer insights and questions that may benefit others in the future. Interestingly (and curiously!) enough, many of my ideas emerge or develop while I am engaged in the act of writing.
 
-What am I writing about? A wide range of topics, but primarily centered around investor relations, investing, fintech, capital markets or whatever I find interesting and fascinating at the time that I want to gain a deeper understanding of. 
+What am I writing about? A wide range of topics, but primarily centered around the capital markets, investor relations, investing, fintech, capital markets or whatever I find interesting and fascinating at the time that I want to gain a deeper understanding of. 
 
 Significantly, the main line of my inquiry in those areas lies in envisioning the future and examining what it may look like.
 
