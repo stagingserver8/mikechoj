@@ -1,7 +1,7 @@
 ---
 title: Role of investor relations in the investment making process
 description: Conversation with Kamil Dimmich, manager of a $1.5bn fund at North of South Capital
-date: 2023-02-28 17:51:42
+date: 2023-11-09 17:51:42
 draft: false
 tags: ['interviews', 'investor_relations']
 ---
