@@ -15,7 +15,7 @@ paginate=10 # articles per page
 [params]
 	mode="toggle" # color-mode → light,dark,toggle or auto
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
-	subtitle = "investing, capital markets and technology"
+	subtitle = "capital markets, investing, investor relations and digital assets"
 	mathjax = true # enable MathJax support
 	katex = true # enable KaTeX support
 
