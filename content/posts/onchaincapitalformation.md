@@ -58,7 +58,7 @@ Let's dive deeper.
 
 There are five key areas that make up the capital formation picture:
 
-[CapitalMarkets](/static/puzzle.png)
+![CapitalMarketsPuzzle](/puzzle.png)
 
 Let’s take a look at each of those in turn.
 
