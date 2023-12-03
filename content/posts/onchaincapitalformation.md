@@ -58,6 +58,8 @@ Let's dive deeper.
 
 There are five key areas that make up the capital formation picture:
 
+[CapitalMarkets](/static/puzzle.png)
+
 Let’s take a look at each of those in turn.
 
 Characteristics of the Company: This answers the question: What am I looking at? For startups, the characteristics (or attributes) might look something like : UK incorporated, first fundraising round, 3 people, MVP in the market, 3 clients, $5,000 MRR, Regtech, Raising $3m.For a listed equity, it might be "UK based, consumer discretionary, $30m market cap, $500k daily trading value, $1m EBITDA, trading on the LSE."
