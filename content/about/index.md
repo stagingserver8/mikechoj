@@ -3,30 +3,19 @@ title: About this place
 date: 2023-01-24 17:51:42
 ---
 
-Over the years, I have experimented with various forms of writing, including blogging and journaling. Sometime in 2022, I embarked on a new experiment: writing and publishing on my own home online, with a specific focus on my professional pursuits.
+Over the years, I have rotated through various writing projects, from blogging to journaling. In 2022, I have started a new experiment — I’ll write and publish regularly* on this site.
 
-Why am I writing? To share my thoughts and thought processes, to keep a personal notebook of my thoughts, and to offer insights and questions that may benefit others in the future. Interestingly (and curiously!), many of my ideas emerge or develop while I am engaged in the act of writing.
+What’s my purpose? To share what I’m thinking, to share how I think, to keep a personal notebook of thoughts, to share ideas or questions that others could benefit from. Crucially (and curiously!), lot of ideas come up or develop while I am writing.
 
-What am I writing about? A wide range of topics, but primarily centered around the capital markets, investor relations, investing, fintech or whatever I find interesting and fascinating at the time that I want to gain a deeper understanding of. 
+What am I writing about? A lot of different things, but mainly about the global capital market, investor relations, investing, and whatever I find interesting and fascinating at the time that I want to gain a deeper understanding of. And all of this in the context of impact of technology on each of those, which I think is the most interesting story of our time.
 
-Significantly, the main line of my inquiry in those areas lies in envisioning the future and examining what it may look like.
+One of my beliefs is tihs technology is unlocking vast amount of new solutions for investors and companies, while introducing new opportunities. Opportunities to invest in new asset classes, opportunities to tell your story better, opportunities to access raise capital much more easily.
 
-In the process, I explore various trends, emerging technologies, and regulatory changes that could potentially shape this future. And by doing this, I hope to provide insights and perspectives that can assist investors, companies, and financial professionals in navigating the evolving market conditions.
+This newsletter delves into that journey focusing on those themes.
 
--
+* A goal, not a promise!
 
-Few articles on certain subjects are ‘ever-drafts’ and are designed to be always evolving. Few posts discuss the work of others and are tagged as ‘guests’. Every now and then, I pretend to be a podcast host, interview interesting people and share key insights here.
-
-—
-
-In a recent interview, Ludwig Sobolewski, one of the architects of modern Polish capital market and former CEO of the Warsaw Stock Exchange talking about the mindset of his team at the time of rapid change and development in post communist Poland:
-
-"...it was relatively easy to introduce innovations, when you were building the whole thing from the scratch and you only need to have the internal courage and determination to achieve it"
-
-Ludwig's words capture the very essence of my own cognitive process. They suggest that it may be more feasible to construct an entirely novel approach rather than attempting to enhance and expand upon an outdated model.
-
-This blog is about this construction.
-
---
-
+You can subscribe to via [Substack]((https://mikechoj.substack.com/))
 You can contact me via [LinkedIn](https://www.linkedin.com/in/mikechoj/)
+
+
