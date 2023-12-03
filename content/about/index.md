@@ -16,6 +16,7 @@ This newsletter delves into that journey focusing on those themes.
 * A goal, not a promise!
 
 You can subscribe to via [Substack]((https://mikechoj.substack.com/))
+
 You can contact me via [LinkedIn](https://www.linkedin.com/in/mikechoj/)
 
 

@@ -1,5 +1,5 @@
 ---
-title: What Would 'On-chain Capital Formation' Look Like?
+title: What Would 'On-Chain Capital Formation' Look Like?
 description: Imaging a global capital market run on code
 date: 2023-09-19 17:51:42
 draft: false
