@@ -1,6 +1,6 @@
 ---
 title: When an exchange stops being an stock exchange
-description: Conversation with Kamil Dimmich, manager of a $1.5bn fund at North of South Capital
+description: Notes from London Stock Exchange Group Capital Markets Day 2023
 date: 2023-11-24 17:51:42
 draft: false
 tags: ['exchanges']
